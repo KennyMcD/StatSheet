@@ -10,5 +10,3 @@ About: This program uses data structures to manipulate data related to basketbal
        with main) and run it. Instructions on how to use the program are displayed
        when its ran.
 
-Note: There is another brand called files outside zip if you don't want to download the
-      zip and just want the source code.
